@@ -1,6 +1,6 @@
 # admin
 <<<<<<< HEAD
-vue+vue-router+vuex+elementUI
+vue+vue-router+axios+mockjs+elementUI
 =======
 
 > A Vue.js project
