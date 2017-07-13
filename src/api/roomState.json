@@ -1,0 +1,57 @@
+{
+    "options": [{
+          "value": "选项1",
+          "floor": "全部"
+        }, {
+          "value": "选项2",
+          "floor": "一楼"
+        }, {
+          "value": "选项3",
+          "floor": "二楼"
+        }, {
+          "value": "选项4",
+          "floor": "三楼"
+        }, {
+          "value": "选项5",
+          "floor": "四楼"
+        }],
+    "houseOptions":[{
+          "houseValue": "选项1",
+          "house": "全部"
+        }, {
+          "houseValue": "选项2",
+          "house": "精致阳光大房床"
+        }, {
+          "houseValue": "选项3",
+          "house": "大床房"
+        }, {
+          "houseValue": "选项4",
+          "house": "小床房"
+        }, {
+          "houseValue": "选项5",
+          "house": "情侣房"
+        },{
+          "houseValue":"选项6",
+          "house":"标准双人间"
+        },{
+          "houseValue":"选项7",
+          "house":"标准单人间"
+        }],
+    "payOptions": [{
+          "value": "选项1",
+          "payTypes": "现金"
+        }, {
+          "payValue": "选项2",
+          "payTypes": "银行卡"
+        }, {
+          "payValue": "选项3",
+          "payTypes": "网上支付"
+        }, {
+          "payValue": "选项4",
+          "payTypes": "微信支付"
+        }, {
+          "payValue": "选项5",
+          "payTypes": "支付宝支付"
+        }]
+
+}

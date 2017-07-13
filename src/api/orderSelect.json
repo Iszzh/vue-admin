@@ -1,0 +1,49 @@
+{
+    "typeOptions": [{
+        "typeOptionsValue": "选项一",
+        "types": "全部"
+    }, {
+        "typeOptionsValue": "选项二",
+        "types": "在住客人"
+    }, {
+        "typeOptionsValue": "选项三",
+        "types": "今日预离"
+    }, {
+        "typeOptionsValue": "选项四",
+        "types": "已退房"
+    }, {
+        "typeOptionsValue": "选项五",
+        "types": "房租催缴"
+    }, {
+        "typeOptionsValue": "选项六",
+        "types": "挂单客人"
+    }, {
+        "typeOptionsValue": "选项七",
+        "types": "撤单客人"
+    }, {
+        "typeOptionsValue": "选项八",
+        "types": "预订客人"
+    }],
+    "houseOptions": [{
+        "value": "选项1",
+        "house": "全部"
+    }, {
+        "value": "选项2",
+        "house": "精致阳光大房床"
+    }, {
+        "value": "选项3",
+        "house": "大床房"
+    }, {
+        "value": "选项4",
+        "house": "小床房"
+    }, {
+        "value": "选项5",
+        "house": "情侣房"
+    }, {
+        "value": "选项6",
+        "house": "标准双人间"
+    }, {
+        "value": "选项7",
+        "house": "标准单人间"
+    }]
+}
